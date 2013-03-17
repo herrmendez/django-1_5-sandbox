@@ -11,7 +11,9 @@ Installing it
 If you want to install from it's source:
 
  $ git clone https://github.com/herrmendez/django-1_5-sandbox.git
- and
+
+and
+
  $ cd django-1_5-sandbox
  $ pip install config/requirements.txt
 
