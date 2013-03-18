@@ -12,10 +12,10 @@ If you want to install from it's source:
 
  $ git clone https://github.com/herrmendez/django-1_5-sandbox.git
 
-and
+and after creating virtualenv...
 
  $ cd django-1_5-sandbox
- $ pip install config/requirements.txt
+ $ pip install -r config/requirements.txt
 
 After this, you can modify the settings at your liking (these are at PROJECT_FOLDER/config/settings)
 
